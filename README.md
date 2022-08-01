@@ -1,6 +1,6 @@
 I'm learning Python
 
-In the future, I wanna learn Lua and some MoonScript.
+In the future, I wanna learn game development.
 
 Gitea: https://www.gitea.com/gluester
 
