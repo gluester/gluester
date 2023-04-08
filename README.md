@@ -1,6 +1,4 @@
-I'm learning Python
-
-In the future, I wanna learn game development.
+slightly ok at discord.py
 
 Gitea: https://www.gitea.com/gluester
 
